@@ -21,8 +21,6 @@
   <img align="center" alt="Rafa-Csharp" height="29" width="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="38" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
 </div>
-
-    ##
   
   <div> 
  
